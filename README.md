@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer | UI Designer 🎨 | Video Editor 🎬| React+AI | Python | JavaScript | Tailwind CSS Open to internships & freelance work Exploring AI tech
+🚀 Computer Science Graduate | Developer | Problem Solver | Continuous Learner 🚀 Code • Create • Learn • Improve Open to internships & freelance work
 
 
 ## 🌐 Socials:

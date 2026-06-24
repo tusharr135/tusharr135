@@ -7,7 +7,7 @@
 
 🗺️ Exploring GIS and Geospatial Technologies
 
-💻 Working with Python, Django, React, JavaScript, SQL, and IoT
+💻 Working with Python, Django, React, JavaScript and SQL
 
 🚀 Building real-world projects and contributing to open-source
 

@@ -1,6 +1,18 @@
 # 💫 About Me:
-🚀 Computer Science Graduate | Developer | Problem Solver | Continuous Learner 🚀 Code • Create • Learn • Improve Open to internships & freelance work
 
+# Hi, I'm Tushar Raut 👋
+
+🎓 Computer Science Graduate
+
+🤖 Learning Artificial Intelligence & Machine Learning
+
+🗺️ Exploring GIS and Geospatial Technologies
+
+💻 Working with Python, Django, React, JavaScript, SQL, and IoT
+
+🚀 Building real-world projects and contributing to open-source
+
+📫 Connect with me on LinkedIn
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushar-raut-bb0637370/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharraut819@gmail.com) 

@@ -1,5 +1,4 @@
 # 💫 About Me:
-
 # Hi, I'm Tushar Raut 👋
 
 🎓 Computer Science Graduate

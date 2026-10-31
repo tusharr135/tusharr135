@@ -1,17 +1,13 @@
 # 💫 About Me:
 # Hi, I'm Tushar Raut 👋
 
-🎓 Computer Science Graduate
+A Computer Science graduate interested in web development and software engineering.
 
-🤖 Learning Artificial Intelligence & Machine Learning
+I work with modern technologies, DevOps, deployment, and debugging. 
 
-🗺️ Exploring GIS and Geospatial Technologies
+I enjoy building projects, solving problems, and continuously learning new skills.
 
-💻 Working with Python, Vue, React, JavaScript, SQL and IOT 
 
-🚀 Building real-world projects and contributing to open-source
-
-📫 Connect with me on LinkedIn
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushar-raut-bb0637370/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharraut819@gmail.com) 

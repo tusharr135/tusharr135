@@ -1,11 +1,11 @@
 # 💫 About Me:
 # Hi, I'm Tushar Raut 👋
 
-A Computer Science graduate interested in web development and software engineering.
+A Computer Science graduate interested in web development 
 
-I work with modern technologies, DevOps, deployment, and debugging. 
+I work with modern technologies, deployment, and debugging. 
 
-I enjoy building projects, solving problems, and continuously learning new skills.
+I enjoy building projects and continuously learning new skills.
 
 
 
